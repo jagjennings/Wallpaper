@@ -19,5 +19,5 @@ def setup():
             
             quad(x, y, xTwo, y, xThree, y + 75, xFour, y + 75)
             x = x + 51
-            color += 2.2
+            color += 2.1
         y = y + 76
